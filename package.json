@@ -1,0 +1,17 @@
+{
+  "name": "o-jailbreak",
+  "version": "1.35.0",
+  "description": "O Jailbreak - Discord moderation and anti-nuke bot",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18.17"
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0"
+  }
+}
